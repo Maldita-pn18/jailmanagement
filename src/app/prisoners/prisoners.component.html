@@ -1,0 +1,45 @@
+<mat-card class="example-card" cdkDrag *ngIf="show">
+    <button mat-mini-fab color="primary" id="addBtn" (click)="addInmate()">
+        <mat-icon>add</mat-icon>
+    </button>
+    <div class="example-container">
+        <mat-card-title>
+            <h5 class="text-center">List of inmates</h5>
+        </mat-card-title><br>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Sex</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Civil Status</th>
+                    <th scope="col">Height</th>
+                    <th scope="col">Time arrested</th>
+                    <th scope="col">Date arrested</th>
+                    <th scope="col">Arrest Officer</th>
+                    <th scope="col">Case</th>
+                    <th scope="col">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let p of prisoner ; let i = index">
+                    
+                    <th>{{ p.fullname}}</th>
+                    <th>{{ p.age}}</th>
+                    <td>{{ p.sex}}</td>
+                    <td>{{ p.prisonerAddress}}</td>
+                    <th>{{ p.status}}</th>
+                    <td>{{ p.height}}</td>
+                    <td>{{ p.arrestTime}}</td>
+                    <th>{{ p.dateCaptured}}</th>
+                    <td>{{ p.police}}</td>
+                    <td>{{ p.case}}</td>
+                    <td><button mat-mini-fab  color="primary" (click)="viewPrisoner(p._id)"><mat-icon>visibility</mat-icon></button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</mat-card>
+
+<!-- <app-add-prisoner (backEvent)="show=$event" *ngIf="!show" ></app-add-prisoner> -->

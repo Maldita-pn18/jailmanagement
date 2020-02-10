@@ -1,0 +1,53 @@
+<mat-sidenav-container >
+    <mat-sidenav [(opened)]="opened">
+        <div>
+            <div style="text-align: center">
+                <p>logo container</p>
+            </div>
+            <hr>
+            <div>
+                <button mat-button [routerLink]="['/dashboard']" routerLinkActive="router-link-active">
+                    <mat-icon>dashboard</mat-icon>&nbsp;Dashboard
+                </button>
+            </div>
+            <hr>
+            <div>
+                <button mat-button>
+                    <mat-icon>library_books</mat-icon>&nbsp;Criminal Cases
+                </button>
+            </div>
+            <hr>
+            <div>
+                <mat-accordion>
+                    <mat-expansion-panel>
+                        <mat-expansion-panel-header>
+                            <mat-panel-title>
+                                <mat-icon>people</mat-icon>&nbsp;Prisoners
+                            </mat-panel-title>
+                        </mat-expansion-panel-header>
+                        <button mat-button >
+                            <mat-icon>visibility</mat-icon>&nbsp;View Prisoners
+                        </button>
+                        <hr>
+                        <button mat-button [routerLink]="['/addPrisoner']" routerLinkActive="router-link-active">
+                            <mat-icon>person_add</mat-icon>&nbsp;Add Prisoner
+                        </button>
+                    </mat-expansion-panel>
+                </mat-accordion>
+            </div>
+            <hr>
+            <div>
+                <button mat-button>
+                    <mat-icon>home</mat-icon>&nbsp;Dorms
+                </button>
+            </div>
+            <hr>
+        </div>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <button mat-raised-button color="primary" (click)="opened = !opened">
+            <mat-icon>menu</mat-icon>
+        </button>
+    </mat-sidenav-content>
+</mat-sidenav-container>

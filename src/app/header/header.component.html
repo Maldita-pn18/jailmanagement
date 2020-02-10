@@ -1,0 +1,21 @@
+<mat-toolbar class="toolbar">
+  <a><img src="../../assets/logo1.png"></a>&nbsp;
+  <h4>Jail Information Management System </h4>
+  <!-- This fills the remaining space of the current row -->
+  <span class="example-fill-remaining-space"></span>
+  <button mat-stroked-button (click)="visitorRoute()" *ngIf="router.url === '/visit' || router.url === '/login' ">Visit</button>&nbsp;&nbsp;
+  <button mat-stroked-button (click)="adminLoginRoute()" *ngIf="router.url === '/visit' || router.url === '/login' ">Login</button>
+  <button mat-stroked-button (click)="inmatesRoute()" *ngIf="router.url === '/inmates' || router.url === '/addPrisoner' || router.url === 'visit_history/:id' || router.url === '/dorms' || router.url === '/visitors'">
+    <mat-icon>people</mat-icon>&nbsp;Inmates
+  </button>&nbsp;&nbsp;
+  <button mat-stroked-button (click)="visitors()" *ngIf="router.url === '/inmates' || router.url === '/addPrisoner' || router.url === 'visit_history/:id' || router.url === '/dorms' || router.url === '/visitors'">
+    <mat-icon>perm_identity</mat-icon>&nbsp;Visitors
+  </button>&nbsp;&nbsp;
+  <button mat-stroked-button  *ngIf="router.url === '/inmates' || router.url === '/addPrisoner' || router.url === 'visit_history/:id' || router.url === '/dorms' || router.url === '/visitors'">
+    <mat-icon>library_books</mat-icon>&nbsp;Cases
+  </button>&nbsp;&nbsp;
+  <button mat-stroked-button  (click)="dorms()" *ngIf="router.url === '/inmates' || router.url === '/addPrisoner' || router.url === 'visit_history/:id' || router.url === '/dorms' || router.url === '/visitors'">
+    <mat-icon>home</mat-icon>&nbsp;Dorms
+  </button>&nbsp;&nbsp;
+  <button mat-stroked-button (click)="logout()" *ngIf="router.url === '/inmates' || router.url === '/addPrisoner' || router.url === 'visit_history/:id' || router.url === '/dorms' || router.url === '/visitors'">Logout</button>
+</mat-toolbar>

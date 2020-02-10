@@ -1,0 +1,27 @@
+<mat-card class="example-card" cdkDrag [style.width]="width">
+    <mat-card-title>
+        <div id="avatar">
+            <i class="image fa fa-user-circle" aria-hidden="true"></i>
+        </div>
+        <h5 class="text-center">Admin</h5>
+    </mat-card-title>
+    <mat-card-content>
+        <div class="example-container">
+            <form [formGroup]="policeInfo" (ngSubmit)="onSubmit()">
+                <mat-form-field appearance="outline">
+                    <mat-label>Username</mat-label>
+                    <input matInput placeholder="Enter username" name="Username" formControlName="username">
+                    <mat-hint  [style.color]="red"  *ngIf="policeInfo.get('username').hasError('required')  && ( policeInfo.controls['username']?.touched || policeInfo.controls['username']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                    <mat-label>Password</mat-label>
+                    <input matInput placeholder="Enter password" type="password" name="Password" formControlName="password">
+                    <mat-hint  [style.color]="red"  *ngIf="policeInfo.get('password').hasError('required')  && ( policeInfo.controls['password']?.touched || policeInfo.controls['password']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>
+                <button mat-raised-button color="primary" [disabled]="!policeInfo.valid">Login</button>
+            </form>
+        </div>
+    </mat-card-content>
+</mat-card>

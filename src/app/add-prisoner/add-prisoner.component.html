@@ -1,0 +1,103 @@
+<mat-card class="example-card"  [style.width]="width">
+    <mat-card-title>
+        <h5 class="text-center">Fill up form</h5>
+    </mat-card-title>
+    <mat-card-content>
+        <div class="example-container">
+            <form [formGroup]="prisonerInfo" (ngSubmit)="addPrisoner()">
+                <mat-form-field appearance="outline">
+                    <mat-label>Name</mat-label>
+                    <input matInput placeholder="Enter name" name="Name" formControlName="fullname">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('fullname').hasError('required')  && ( prisonerInfo.controls['fullname']?.touched || prisonerInfo.controls['fullname']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Age</mat-label>
+                    <input matInput placeholder="Enter age" type="number" name="Age" formControlName="age">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('age').hasError('required')  && ( prisonerInfo.controls['age']?.touched || prisonerInfo.controls['age']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Sex</mat-label>
+                    <input matInput placeholder="e.g Male" name="Sex" formControlName="sex">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('sex').hasError('required')  && ( prisonerInfo.controls['sex']?.touched || prisonerInfo.controls['sex']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Address</mat-label>
+                    <input matInput placeholder="Enter Address" name="Address" formControlName="prisonerAddress">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('prisonerAddress').hasError('required')  && ( prisonerInfo.controls['prisonerAddress']?.touched || prisonerInfo.controls['prisonerAddress']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Civil Status</mat-label>
+                    <input matInput placeholder="e.g Married" name="Status" formControlName="status">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('status').hasError('required')  && ( prisonerInfo.controls['status']?.touched || prisonerInfo.controls['status']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Height</mat-label>
+                    <input matInput placeholder="Enter height in meter/s" type="number" name="Height" formControlName="height">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('height').hasError('required')  && ( prisonerInfo.controls['height']?.touched || prisonerInfo.controls['height']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Arresting Officer</mat-label>
+                    <input matInput placeholder="Enter Police name" name="Officer" formControlName="police">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('police').hasError('required')  && ( prisonerInfo.controls['police']?.touched || prisonerInfo.controls['police']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                    <mat-label>Arrest Time</mat-label>
+                    <input matInput placeholder="Enter arrest time" type="time" name="Time" formControlName="arrestTime">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('arrestTime').hasError('required')  && ( prisonerInfo.controls['arrestTime']?.touched || prisonerInfo.controls['arrestTime']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Arrest Date</mat-label>
+                    <input matInput placeholder="Enter date" type="date" name="Date" formControlName="dateCaptured">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('dateCaptured').hasError('required')  && ( prisonerInfo.controls['dateCaptured']?.touched || prisonerInfo.controls['dateCaptured']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <mat-form-field appearance="outline">
+                    <mat-label>Case</mat-label>
+                    <input matInput placeholder="Enter case" name="Case" formControlName="case">
+                    <mat-hint style="color: red" *ngIf="prisonerInfo.get('case').hasError('required')  && ( prisonerInfo.controls['case']?.touched || prisonerInfo.controls['case']?.dirty) ">This
+                        field is required</mat-hint>
+                </mat-form-field>&nbsp;
+                <input type="file">
+                <br><button mat-raised-button color="primary" type="submit" [disabled]="!prisonerInfo.valid">
+                    <mat-icon>done</mat-icon>
+                </button>&nbsp;
+            </form>
+        </div>
+    </mat-card-content>
+</mat-card>
+
+<h4>mat select</h4>
+<mat-form-field>
+  <mat-label>Favorite animal</mat-label>
+  <mat-select [formControl]="animalControl" required>
+    <mat-option>--</mat-option>
+    <mat-option *ngFor="let animal of animals" [value]="animal">
+      {{animal.name}}
+    </mat-option>
+  </mat-select>
+  <mat-error *ngIf="animalControl.hasError('required')">Please choose an animal</mat-error>
+  <mat-hint>{{animalControl.value?.sound}}</mat-hint>
+</mat-form-field>
+
+<h4>native html select</h4>
+<mat-form-field>
+  <mat-label>Select your car (required)</mat-label>
+  <select matNativeControl required [formControl]="selectFormControl">
+    <option label="--select something --"></option>
+    <option value="saab">Saab</option>
+    <option value="mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+  </select>
+  <mat-error *ngIf="selectFormControl.hasError('required')">
+    This field is required
+  </mat-error>
+  <mat-hint>You can pick up your favorite car here</mat-hint>
+</mat-form-field>

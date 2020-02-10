@@ -1,0 +1,3110 @@
+[
+    {
+        "id": 1,
+        "keynumber": "200000688",
+        "arrestdate": "2020-01-26 15:09:00",
+        "bookintime": "2020-01-26 15:47:00",
+        "releasedate": "",
+        "officer": "MOSS",
+        "namelfm": "AYLOR  JAMIE  ELIZABETH",
+        "address": " GOLF CLUB LANE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000688]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511382.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 1,
+                "booking_id": 1,
+                "charge": "ASSAULT",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 2,
+                "booking_id": 1,
+                "charge": "IMPERSONATION - CRIMINAL IMPERSONATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 3,
+                "booking_id": 1,
+                "charge": "DISORDERLY CONDUCT",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "keynumber": "200000703",
+        "arrestdate": "2020-01-27 02:29:00",
+        "bookintime": "2020-01-27 07:10:58",
+        "releasedate": "2020-01-27 09:30:31",
+        "officer": "BECK",
+        "namelfm": "BAILEY  DAVID  DEAN",
+        "address": " DUE WEST AVENUE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000703]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511397.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 4,
+                "booking_id": 2,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "3000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 5,
+                "booking_id": 2,
+                "charge": "TRAFFIC - IMPROPER LANE USE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 6,
+                "booking_id": 2,
+                "charge": "TRAFFIC - REGISTRATION, EXPIRED CERTIFICATE AND PL",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 7,
+                "booking_id": 2,
+                "charge": "TRAFFIC - DRIVERS IMPLIED CONSENT TO TESTS",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "keynumber": "200000678",
+        "arrestdate": "2020-01-26 03:34:00",
+        "bookintime": "2020-01-26 03:43:26",
+        "releasedate": "2020-01-26 05:57:22",
+        "officer": "LEBLANC",
+        "namelfm": "BARNETTE  CHAD  MICHAEL",
+        "address": " HIGHWAY 13 ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000678]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511371.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 8,
+                "booking_id": 3,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "1000",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 9,
+                "booking_id": 3,
+                "charge": "TRAFFIC - REGISTRATION, IMPROPER DISPLAY OF PLATES",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "keynumber": "200000693",
+        "arrestdate": "2020-01-26 18:29:00",
+        "bookintime": "2020-01-26 19:36:02",
+        "releasedate": "2020-01-27 00:48:14",
+        "officer": "HAGEWOOD",
+        "namelfm": "BEAVERS  TERRY  WAYNE",
+        "address": " FUJI LN",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000693]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511387.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 10,
+                "booking_id": 4,
+                "charge": "VANDALISM",
+                "bond": "2500",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 11,
+                "booking_id": 4,
+                "charge": "INTERFERING WITH EMERGENCY CALL",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "keynumber": "200000675",
+        "arrestdate": "2020-01-25 23:29:00",
+        "bookintime": "2020-01-25 23:41:03",
+        "releasedate": "",
+        "officer": "GREENMAN",
+        "namelfm": "BENNETT  SHEDRICK  DEON",
+        "address": " CARRIE DRIVE ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000675]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511369.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 12,
+                "booking_id": 5,
+                "charge": "TRESPASS - CRIMINAL TRESPASS",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "keynumber": "200000669",
+        "arrestdate": "2020-01-25 06:27:00",
+        "bookintime": "2020-01-25 06:58:16",
+        "releasedate": "2020-01-25 08:39:00",
+        "officer": "BECK",
+        "namelfm": "BORDEN  TONY  ALLEN",
+        "address": " HIGH STREET",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000669]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511362.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 13,
+                "booking_id": 6,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "2500",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "keynumber": "200000717",
+        "arrestdate": "2020-01-27 16:06:00",
+        "bookintime": "2020-01-27 19:25:31",
+        "releasedate": "",
+        "officer": "JACKSON",
+        "namelfm": "BROWN  BRESHJON  SHERMELL",
+        "address": " E CEDAR ST ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000717]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511408.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 14,
+                "booking_id": 7,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "62000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 15,
+                "booking_id": 7,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 16,
+                "booking_id": 7,
+                "charge": "CONTROLLED SUBSTANCE, COCAINE: POSSESS FOR RESALE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 17,
+                "booking_id": 7,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 18,
+                "booking_id": 7,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 19,
+                "booking_id": 7,
+                "charge": "EVIDENCE - TAMPERING WITH OR FABRICATING",
+                "bond": "16000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 20,
+                "booking_id": 7,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 21,
+                "booking_id": 7,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 22,
+                "booking_id": 7,
+                "charge": "TRAFFIC - SEAT BELTS REQUIRED, OPERATOR & PASSENGE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "keynumber": "200000718",
+        "arrestdate": "2020-01-27 19:18:00",
+        "bookintime": "2020-01-27 20:06:00",
+        "releasedate": "",
+        "officer": "HOLDER",
+        "namelfm": "CAHILL  TERRY  PAUL",
+        "address": " LNCOLN DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000718]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511412.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 23,
+                "booking_id": 8,
+                "charge": "FUGITIVE - WANTED BY ANOTHER STATE (ID OFFENSE)",
+                "bond": "250000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 24,
+                "booking_id": 8,
+                "charge": "HOLD FOR OTHER AGENCY",
+                "bond": null,
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 25,
+                "booking_id": 8,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "keynumber": "200000686",
+        "arrestdate": "2020-01-26 12:43:00",
+        "bookintime": "2020-01-26 12:57:10",
+        "releasedate": "",
+        "officer": "OWENS",
+        "namelfm": "CAMPBELL  STEPHANIE  ELIZABETH",
+        "address": "PENNY RYLE CT",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000686]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511380.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 26,
+                "booking_id": 9,
+                "charge": "TRAFFIC - SPEEDING",
+                "bond": "1000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 27,
+                "booking_id": 9,
+                "charge": "DORL TRAFFIC - LICENSE DRIVING ON REVOKED OR SUSPE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 28,
+                "booking_id": 9,
+                "charge": "TRAFFIC - REGISTRATION, IMPROPER DISPLAY OF PLATES",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            },
+            {
+                "id": 29,
+                "booking_id": 9,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "keynumber": "200000690",
+        "arrestdate": "2020-01-26 16:53:00",
+        "bookintime": "2020-01-26 17:28:49",
+        "releasedate": "",
+        "officer": "JOHNSON",
+        "namelfm": "CHANEY  KIMBERLY  MICHELLE",
+        "address": " ACORN DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000690]",
+        "gender": "F",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511384.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 30,
+                "booking_id": 10,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:05",
+                "updated_at": "2020-01-27 23:50:05"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "keynumber": "200000691",
+        "arrestdate": "2020-01-26 16:44:00",
+        "bookintime": "2020-01-26 20:31:15",
+        "releasedate": "2020-01-27 01:40:00",
+        "officer": "JOHNSON",
+        "namelfm": "CHANEY  WAYNE  EVERETT",
+        "address": " ACORN DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000691]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511385.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:05",
+        "updated_at": "2020-01-27 23:50:05",
+        "charges": [
+            {
+                "id": 31,
+                "booking_id": 11,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "500",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "keynumber": "200000664",
+        "arrestdate": "2020-01-25 02:10:00",
+        "bookintime": "2020-01-25 02:25:40",
+        "releasedate": "2020-01-25 13:07:00",
+        "officer": "DUBE",
+        "namelfm": "DEWATERS  REED  BRANDT",
+        "address": " OLD HIGHWAY 79 ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000664]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511357.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 32,
+                "booking_id": 12,
+                "charge": "CONTEMPT(VIOL.COR)",
+                "bond": "6000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "keynumber": "200000719",
+        "arrestdate": "2020-01-27 19:38:00",
+        "bookintime": "2020-01-27 21:02:09",
+        "releasedate": "",
+        "officer": "HEADLEY",
+        "namelfm": "DOUGLAS  JOSEPH  WILLIAM",
+        "address": " RIVERHILL DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000719]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511413.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 33,
+                "booking_id": 13,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 34,
+                "booking_id": 13,
+                "charge": "TRAFFIC-DRIVERS EXERCISE DUE CARE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 35,
+                "booking_id": 13,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 36,
+                "booking_id": 13,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 37,
+                "booking_id": 13,
+                "charge": "TRAFFIC - DRIVERS IMPLIED CONSENT TO TESTS",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "keynumber": "200000696",
+        "arrestdate": "2020-01-26 21:47:00",
+        "bookintime": "2020-01-26 21:58:48",
+        "releasedate": "2020-01-27 09:10:23",
+        "officer": "RAGSDALE",
+        "namelfm": "EASON  JAMES  HOWARD",
+        "address": " BOARDWALK BLVD ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000696]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511390.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 38,
+                "booking_id": 14,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "1500",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "keynumber": "200000689",
+        "arrestdate": "2020-01-26 17:11:00",
+        "bookintime": "2020-01-26 17:22:00",
+        "releasedate": "2020-01-27 03:41:02",
+        "officer": "WILSON",
+        "namelfm": "ELDRIDGE  MELISSA  ANNE",
+        "address": " MONCREST DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000689]",
+        "gender": "F",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511383.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 39,
+                "booking_id": 15,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "250",
+                "bondagency": "SALLEE BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "keynumber": "200000710",
+        "arrestdate": "2020-01-27 14:07:00",
+        "bookintime": "2020-01-27 15:25:00",
+        "releasedate": "",
+        "officer": "WEBER",
+        "namelfm": "ELLIS  FREDERICK  DELANE",
+        "address": " SHELTON CIR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000710]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511404.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 40,
+                "booking_id": 16,
+                "charge": "PROBATION - VIOLATION OF",
+                "bond": "2500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 41,
+                "booking_id": 16,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": null,
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "keynumber": "200000708",
+        "arrestdate": "2020-01-27 13:18:00",
+        "bookintime": "2020-01-27 13:42:00",
+        "releasedate": "",
+        "officer": "TORRES",
+        "namelfm": "ENDERSON  GABRIEL",
+        "address": " GOLFVIEW PLACE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000708]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511402.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 42,
+                "booking_id": 17,
+                "charge": "ASSAULT - AGGRAVATED",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 43,
+                "booking_id": 17,
+                "charge": "FALSE IMPRISONMENT",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 44,
+                "booking_id": 17,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "keynumber": "200000643",
+        "arrestdate": "2020-01-24 10:29:00",
+        "bookintime": "2020-01-24 10:34:32",
+        "releasedate": "2020-01-24 11:43:47",
+        "officer": "YORK",
+        "namelfm": "FORD  DARRYL  CHRISTOPHER",
+        "address": " HWY 41 A S ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000643]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511336.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 45,
+                "booking_id": 18,
+                "charge": "PROBATION - VIOLATION OF",
+                "bond": "2500",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "keynumber": "200000695",
+        "arrestdate": "2020-01-26 21:09:00",
+        "bookintime": "2020-01-26 23:40:00",
+        "releasedate": "",
+        "officer": "ROSE",
+        "namelfm": "GATLING  ELTON  MCANTHONY",
+        "address": " W CONCORD DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000695]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511389.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 46,
+                "booking_id": 19,
+                "charge": "ARREST - EVADING ARREST",
+                "bond": "20000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 47,
+                "booking_id": 19,
+                "charge": "IMPERSONATION - CRIMINAL IMPERSONATION",
+                "bond": "55000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 48,
+                "booking_id": 19,
+                "charge": "ARREST - EVADING ARREST",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 49,
+                "booking_id": 19,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "50000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 50,
+                "booking_id": 19,
+                "charge": "ARREST - EVADING ARREST",
+                "bond": "50000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 51,
+                "booking_id": 19,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 52,
+                "booking_id": 19,
+                "charge": "ALCOHOL - OPEN CONTAINER LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 53,
+                "booking_id": 19,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 54,
+                "booking_id": 19,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "keynumber": "200000712",
+        "arrestdate": "2020-01-27 15:24:00",
+        "bookintime": "2020-01-27 16:14:00",
+        "releasedate": "",
+        "officer": "BOSWORTH",
+        "namelfm": "GOOLSBY  DERRICK  WADE",
+        "address": " LEO BAKER RD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000712]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511406.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 55,
+                "booking_id": 20,
+                "charge": "THEFT - PROPERTY",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "keynumber": "200000648",
+        "arrestdate": "2020-01-24 15:03:00",
+        "bookintime": "2020-01-24 16:19:02",
+        "releasedate": "",
+        "officer": "BEAUBIEN",
+        "namelfm": "GUNN  TERRANCE  DWAYNE",
+        "address": " WOODMONT BOULEVARD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000648]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511341.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 56,
+                "booking_id": 21,
+                "charge": "THEFT - PROPERTY",
+                "bond": "20000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "keynumber": "200000687",
+        "arrestdate": "2020-01-26 14:38:00",
+        "bookintime": "2020-01-26 15:04:00",
+        "releasedate": "",
+        "officer": "SZCZERBIAK",
+        "namelfm": "GURNEE  KIMBERLY  ANNA",
+        "address": " BENNETT DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000687]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511381.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 57,
+                "booking_id": 22,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "keynumber": "200000636",
+        "arrestdate": "2020-01-23 18:47:00",
+        "bookintime": "2020-01-24 00:15:00",
+        "releasedate": "",
+        "officer": "CASH",
+        "namelfm": "HARDEN  JEFFERY  ROBERT",
+        "address": " EVANS RD ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000636]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511331.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 58,
+                "booking_id": 23,
+                "charge": "CONTEMPT(VIOL.COR)",
+                "bond": "1000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 59,
+                "booking_id": 23,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "2000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 60,
+                "booking_id": 23,
+                "charge": "VIOLATION OF IMPLIED CONSENT LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "keynumber": "200000681",
+        "arrestdate": "2020-01-26 07:05:00",
+        "bookintime": "2020-01-26 07:19:15",
+        "releasedate": "2020-01-26 11:57:01",
+        "officer": "MILLER",
+        "namelfm": "HILL  NADINE  KATJA",
+        "address": " TROPHY TRC",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000681]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511375.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 61,
+                "booking_id": 24,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "1500",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "keynumber": "200000645",
+        "arrestdate": "2020-01-24 11:52:00",
+        "bookintime": "2020-01-24 12:42:08",
+        "releasedate": "",
+        "officer": "BRYANT",
+        "namelfm": "HITSON  STEPHANIE  MARIE",
+        "address": " DOMINION DR ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000645]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511338.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 62,
+                "booking_id": 25,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 63,
+                "booking_id": 25,
+                "charge": "DRUG-METHAMPHETAMINE VIOLATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 64,
+                "booking_id": 25,
+                "charge": "WEAPON-UNLAWFUL CARRYING OR POSSESSION WEAPON",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 65,
+                "booking_id": 25,
+                "charge": "DRUG-METHAMPHETAMINE VIOLATION",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 66,
+                "booking_id": 25,
+                "charge": "SHOPLIFTING - THEFT OF PROPERTY",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "keynumber": "200000707",
+        "arrestdate": "2020-01-27 11:32:00",
+        "bookintime": "2020-01-27 12:02:11",
+        "releasedate": "2020-01-27 16:25:13",
+        "officer": "VAN BEBER",
+        "namelfm": "HURST  DONALD  MONTRELL",
+        "address": " HARRIER COURT",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000707]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511401.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 67,
+                "booking_id": 26,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "25000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 68,
+                "booking_id": 26,
+                "charge": "TRAFFIC - SPEEDING",
+                "bond": "5000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 69,
+                "booking_id": 26,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 70,
+                "booking_id": 26,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 71,
+                "booking_id": 26,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "25000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 72,
+                "booking_id": 26,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "1000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 73,
+                "booking_id": 26,
+                "charge": "TRAFFIC - FOLLOWING TOO CLOSE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 74,
+                "booking_id": 26,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "1000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "keynumber": "200000683",
+        "arrestdate": "2020-01-26 06:46:00",
+        "bookintime": "2020-01-26 09:53:16",
+        "releasedate": "2020-01-26 10:27:07",
+        "officer": "DE LA GARZA",
+        "namelfm": "KITTELL  TYLER  PAUL",
+        "address": " RAFIKI DRIVE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000683]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511377.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 75,
+                "booking_id": 27,
+                "charge": "ALCOHOL-PUB INTOX",
+                "bond": "439",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "keynumber": "200000676",
+        "arrestdate": "2020-01-26 00:41:00",
+        "bookintime": "2020-01-26 00:47:40",
+        "releasedate": "2020-01-26 02:25:19",
+        "officer": "LANHAM",
+        "namelfm": "KUHLMAN  SARAH  KATE",
+        "address": " RAMBLEWOOD DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000676]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511370.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 76,
+                "booking_id": 28,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "2500",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 77,
+                "booking_id": 28,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "keynumber": "200000641",
+        "arrestdate": "2020-01-24 05:18:00",
+        "bookintime": "2020-01-24 05:50:00",
+        "releasedate": "2020-01-24 06:51:25",
+        "officer": "PEOPLES",
+        "namelfm": "LAYMON  THOMAS  DUANE",
+        "address": " DELMAR DR ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000641]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511334.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 78,
+                "booking_id": 29,
+                "charge": "POLICE OFFICER - OBEDIENCE TO",
+                "bond": "1000",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            },
+            {
+                "id": 79,
+                "booking_id": 29,
+                "charge": "TRAFFIC - SPEEDING",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "keynumber": "200000677",
+        "arrestdate": "2020-01-26 03:30:00",
+        "bookintime": "2020-01-26 03:37:51",
+        "releasedate": "2020-01-26 04:56:02",
+        "officer": "WESTOVER",
+        "namelfm": "LIGHT  MATTHEW  JOHN",
+        "address": " WINTERS CT ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000677]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511372.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:06",
+        "updated_at": "2020-01-27 23:50:06",
+        "charges": [
+            {
+                "id": 80,
+                "booking_id": 30,
+                "charge": "VANDALISM",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:06",
+                "updated_at": "2020-01-27 23:50:06"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "keynumber": "200000685",
+        "arrestdate": "2020-01-26 10:43:00",
+        "bookintime": "2020-01-26 13:15:17",
+        "releasedate": "",
+        "officer": "TORRES",
+        "namelfm": "LUND  KENNETH  RICHARD",
+        "address": " FT. CAMPBELL BLVD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000685]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511379.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 81,
+                "booking_id": 31,
+                "charge": "VIOLATION OF ORDER OF PROTECTION",
+                "bond": "25000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "keynumber": "200000666",
+        "arrestdate": "2020-01-25 04:33:00",
+        "bookintime": "2020-01-25 07:31:17",
+        "releasedate": "2020-01-25 14:08:00",
+        "officer": "JOHNSON",
+        "namelfm": "LYNN  AMANDA  ERIKA",
+        "address": " PEABODY DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000666]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511359.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 82,
+                "booking_id": 32,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "6000",
+                "bondagency": "ASAP BONDING",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 83,
+                "booking_id": 32,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 84,
+                "booking_id": 32,
+                "charge": "TRAFFIC - TURNS, SIGNALS REQUIRED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 85,
+                "booking_id": 32,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "keynumber": "200000647",
+        "arrestdate": "2020-01-24 13:59:00",
+        "bookintime": "2020-01-24 15:15:21",
+        "releasedate": "",
+        "officer": "BILLOTTE",
+        "namelfm": "MARABLE  GINA  GAYLE",
+        "address": " SLAYDEN CIRCLE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000647]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511340.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 86,
+                "booking_id": 33,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "keynumber": "200000711",
+        "arrestdate": "2020-01-27 15:24:00",
+        "bookintime": "2020-01-27 16:03:00",
+        "releasedate": "2020-01-27 18:34:18",
+        "officer": "BRYANT",
+        "namelfm": "MARTIN  MALIK  RASHAWN",
+        "address": " BALDWIN DRIVE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000711]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511405.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 87,
+                "booking_id": 34,
+                "charge": "CONTEMPT(VIOL.COR)",
+                "bond": "7000",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "keynumber": "200000663",
+        "arrestdate": "2020-01-24 23:08:00",
+        "bookintime": "2020-01-24 23:46:39",
+        "releasedate": "",
+        "officer": "DESKINS",
+        "namelfm": "MCDUFFIE  CHRISTOPHER  LAYTON",
+        "address": " WIDEMAN ST",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000663]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511356.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 88,
+                "booking_id": 35,
+                "charge": "ALCOHOL-PUB INTOX",
+                "bond": "439",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "keynumber": "200000709",
+        "arrestdate": "2020-01-27 13:59:00",
+        "bookintime": "2020-01-27 15:08:00",
+        "releasedate": "",
+        "officer": "HARP",
+        "namelfm": "MEDARIES  ROBERT  LEON",
+        "address": " BRANCH STREET",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000709]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511403.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 89,
+                "booking_id": 36,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "7500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "keynumber": "200000705",
+        "arrestdate": "2020-01-27 09:54:00",
+        "bookintime": "2020-01-27 10:05:31",
+        "releasedate": "",
+        "officer": "KENNEDY",
+        "namelfm": "MENEFEE  TERENCE  JOSHUA",
+        "address": " MAPLELEAF DRIVE ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000705]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511399.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 90,
+                "booking_id": 37,
+                "charge": "ASSAULT - AGGRAVATED",
+                "bond": "25000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 91,
+                "booking_id": 37,
+                "charge": "INTERFERING WITH EMERGENCY CALL",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 92,
+                "booking_id": 37,
+                "charge": "CONTEMPT(VIOL.COR)",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 93,
+                "booking_id": 37,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "keynumber": "200000720",
+        "arrestdate": "2020-01-27 21:23:00",
+        "bookintime": "2020-01-27 21:32:36",
+        "releasedate": "",
+        "officer": "SPEARS",
+        "namelfm": "MERRILL  MEGAN  MICHELLE",
+        "address": " HAROLD DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000720]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511414.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 94,
+                "booking_id": 38,
+                "charge": "SCHEDULE 1 DRUG VIOLATIONS",
+                "bond": "81000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 95,
+                "booking_id": 38,
+                "charge": "DRUG-METHAMPHETAMINE VIOLATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 96,
+                "booking_id": 38,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "keynumber": "200000715",
+        "arrestdate": "2020-01-27 16:46:00",
+        "bookintime": "2020-01-27 17:49:00",
+        "releasedate": "2020-01-27 19:36:46",
+        "officer": "BOSWORTH",
+        "namelfm": "MILLIKEN  AMBER  NICHOLE",
+        "address": " BEAR CREEK RD ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000715]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511409.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 97,
+                "booking_id": 39,
+                "charge": "DRUG-METHAMPHETAMINE VIOLATION",
+                "bond": "5000",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 98,
+                "booking_id": 39,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 99,
+                "booking_id": 39,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "keynumber": "200000679",
+        "arrestdate": "2020-01-26 04:48:00",
+        "bookintime": "2020-01-26 09:17:39",
+        "releasedate": "",
+        "officer": "SMITH",
+        "namelfm": "MORRIS  JAMES  HARRISON RHODES",
+        "address": " POWER STREET",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000679]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511373.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 100,
+                "booking_id": 40,
+                "charge": "AGGRAVATED ASSAULT",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 101,
+                "booking_id": 40,
+                "charge": "AGGRAVATED ASSAULT",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "keynumber": "200000692",
+        "arrestdate": "2020-01-26 18:24:00",
+        "bookintime": "2020-01-26 18:40:15",
+        "releasedate": "2020-01-27 05:22:25",
+        "officer": "JACKSON",
+        "namelfm": "NELSON  JESSICA  TAYLOR",
+        "address": " GARRETTSBURG Road ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000692]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511386.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 102,
+                "booking_id": 41,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "500",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "keynumber": "200000658",
+        "arrestdate": "2020-01-24 21:12:00",
+        "bookintime": "2020-01-24 21:27:14",
+        "releasedate": "2020-01-27 12:15:26",
+        "officer": "BROWN",
+        "namelfm": "NELSON  KEANAN  JERDIAH",
+        "address": " JOY DRIVE",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000658]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511351.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 103,
+                "booking_id": 42,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "2500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 104,
+                "booking_id": 42,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "2500",
+                "bondagency": "RISE'S BONDING CO",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 105,
+                "booking_id": 42,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "keynumber": "200000662",
+        "arrestdate": "2020-01-24 22:46:00",
+        "bookintime": "2020-01-24 23:33:12",
+        "releasedate": "2020-01-25 10:19:00",
+        "officer": "HALFORD",
+        "namelfm": "NELSON  SHAWN  ANTHONY",
+        "address": " CIDER DR ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000662]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511355.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 106,
+                "booking_id": 43,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "2500",
+                "bondagency": "RISE'S BONDING CO",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 107,
+                "booking_id": 43,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 108,
+                "booking_id": 43,
+                "charge": "DRUGS - SCHE. II (MFG, SELL, DELIVER, ETC) COCAINE",
+                "bond": "25000",
+                "bondagency": "RISE'S BONDING CO",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 109,
+                "booking_id": 43,
+                "charge": "DRUGS - SCHE. VI (MFG, SELL, DELIVER, ETC) MARIHUA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 110,
+                "booking_id": 43,
+                "charge": "DRUGS - SCHE. II (MFG, SELL, DELIVER, ETC) COCAINE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 111,
+                "booking_id": 43,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 112,
+                "booking_id": 43,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 113,
+                "booking_id": 43,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 114,
+                "booking_id": 43,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 115,
+                "booking_id": 43,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 116,
+                "booking_id": 43,
+                "charge": "DRUGS - SCHE. II (MFG, SELL, DELIVER, ETC) COCAINE",
+                "bond": "20000",
+                "bondagency": "RISE'S BONDING CO",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 117,
+                "booking_id": 43,
+                "charge": "DRUGS - SCHE. II (MFG, SELL, DELIVER, ETC) COCAINE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "keynumber": "200000660",
+        "arrestdate": "2020-01-24 22:33:00",
+        "bookintime": "2020-01-24 23:11:44",
+        "releasedate": "2020-01-25 02:59:25",
+        "officer": "CROSBY",
+        "namelfm": "NOLTON  RICHARD  BERNARD",
+        "address": " SAMUEL DRIVE ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000660]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511353.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 118,
+                "booking_id": 44,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "10000",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "keynumber": "200000674",
+        "arrestdate": "2020-01-25 23:29:00",
+        "bookintime": "2020-01-25 23:37:15",
+        "releasedate": "",
+        "officer": "GREENMAN",
+        "namelfm": "ONEAL BREWER  JERVIS  DEMAR",
+        "address": " OAK ST",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000674]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511368.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 119,
+                "booking_id": 45,
+                "charge": "TRESPASS - CRIMINAL TRESPASS",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "keynumber": "200000680",
+        "arrestdate": "2020-01-26 04:24:00",
+        "bookintime": "2020-01-26 05:25:22",
+        "releasedate": "",
+        "officer": "LANHAM",
+        "namelfm": "POULSEN  DEBORAH  BETH",
+        "address": "HOMELESS",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000680][FrontImageMissing][SideImageMissing]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/assets\/images\/noimage.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 120,
+                "booking_id": 46,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "3000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 121,
+                "booking_id": 46,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 122,
+                "booking_id": 46,
+                "charge": "DISORDERLY CONDUCT",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 123,
+                "booking_id": 46,
+                "charge": "ARREST - RESISTING STOP,FRISK,ARREST,SEARCH",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "keynumber": "200000667",
+        "arrestdate": "2020-01-25 04:51:00",
+        "bookintime": "2020-01-25 05:10:57",
+        "releasedate": "2020-01-25 06:55:00",
+        "officer": "NAQUIN",
+        "namelfm": "REISS  DANIEL  THOMAS",
+        "address": " OXFORD HILLS Drive ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000667]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511360.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 124,
+                "booking_id": 47,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "3500",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 125,
+                "booking_id": 47,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 126,
+                "booking_id": 47,
+                "charge": "TRAFFIC - DRIVERS IMPLIED CONSENT TO TESTS",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 127,
+                "booking_id": 47,
+                "charge": "EVIDENCE - TAMPERING WITH OR FABRICATING",
+                "bond": "2500",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "keynumber": "200000704",
+        "arrestdate": "2020-01-27 05:56:00",
+        "bookintime": "2020-01-27 08:22:57",
+        "releasedate": "2020-01-27 09:39:58",
+        "officer": "LANHAM",
+        "namelfm": "RIVERA  MICHAEL  DAVID",
+        "address": " BRIDGE AVE 0 ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000704]",
+        "gender": "M",
+        "race": "I",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511398.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 128,
+                "booking_id": 48,
+                "charge": "ALCOHOL-PUB INTOX",
+                "bond": "439",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "keynumber": "200000700",
+        "arrestdate": "2020-01-27 01:20:00",
+        "bookintime": "2020-01-27 02:05:00",
+        "releasedate": "2020-01-27 04:26:09",
+        "officer": "ROBINSON",
+        "namelfm": "ROBINSON  GARRON  SCARLEY",
+        "address": " VERKLER DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000700]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511394.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 129,
+                "booking_id": 49,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "5000",
+                "bondagency": "2ND CHANCE BAIL BOND",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 130,
+                "booking_id": 49,
+                "charge": "ALCOHOL - OPEN CONTAINER LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 131,
+                "booking_id": 49,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 132,
+                "booking_id": 49,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            },
+            {
+                "id": 133,
+                "booking_id": 49,
+                "charge": "VIOLATION OF IMPLIED CONSENT LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "keynumber": "200000699",
+        "arrestdate": "2020-01-26 22:13:00",
+        "bookintime": "2020-01-27 00:55:00",
+        "releasedate": "",
+        "officer": "DE LA GARZA",
+        "namelfm": "ROGERS  KATHERINE  DIANE",
+        "address": " ANDREW DR ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000699]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511393.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 134,
+                "booking_id": 50,
+                "charge": "AGGRAVATED ASSAULT",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "keynumber": "200000701",
+        "arrestdate": "2020-01-27 00:37:00",
+        "bookintime": "2020-01-27 05:00:00",
+        "releasedate": "",
+        "officer": "DEJESUS",
+        "namelfm": "ROWAN  RANDALL  LAMONT",
+        "address": " BUENA VISTA PIKE ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000701]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511395.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:07",
+        "updated_at": "2020-01-27 23:50:07",
+        "charges": [
+            {
+                "id": 135,
+                "booking_id": 51,
+                "charge": "ALCOHOL-PUB INTOX",
+                "bond": "500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:07",
+                "updated_at": "2020-01-27 23:50:07"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "keynumber": "200000649",
+        "arrestdate": "2020-01-24 16:42:00",
+        "bookintime": "2020-01-24 17:17:23",
+        "releasedate": "",
+        "officer": "NEMETH",
+        "namelfm": "RUTHERFORD  CRYSTAL  DAWN",
+        "address": " BIGLEN ROAD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000649]",
+        "gender": "F",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511342.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 136,
+                "booking_id": 52,
+                "charge": "DRUG-METHAMPHETAMINE VIOLATION",
+                "bond": "10000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 137,
+                "booking_id": 52,
+                "charge": "SHOPLIFTING - THEFT OF PROPERTY",
+                "bond": "2500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "keynumber": "200000656",
+        "arrestdate": "2020-01-24 17:37:00",
+        "bookintime": "2020-01-24 19:23:30",
+        "releasedate": "",
+        "officer": "BRYANT",
+        "namelfm": "SANDERS  JORDAN  ALEXANDER",
+        "address": " LAFAYETTE ROAD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000656]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511343.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 138,
+                "booking_id": 53,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "5000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 139,
+                "booking_id": 53,
+                "charge": "MAN,DEL,SALE,POSS,CONSP DRUGS FINE 500,000 OR LESS",
+                "bond": "115000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 140,
+                "booking_id": 53,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 141,
+                "booking_id": 53,
+                "charge": "WEAPON-CONVICTED FELON GOING ARMED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 142,
+                "booking_id": 53,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 143,
+                "booking_id": 53,
+                "charge": "THEFT - PROPERTY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 144,
+                "booking_id": 53,
+                "charge": "DORL TRAFFIC - LICENSE DRIVING ON REVOKED OR SUSPE",
+                "bond": "2500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 145,
+                "booking_id": 53,
+                "charge": "FUGITIVE - WANTED BY ANOTHER STATE (ID OFFENSE)",
+                "bond": "250000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 146,
+                "booking_id": 53,
+                "charge": "HOLD FOR OTHER AGENCY",
+                "bond": null,
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "keynumber": "200000716",
+        "arrestdate": "2020-01-27 18:00:00",
+        "bookintime": "2020-01-27 18:25:00",
+        "releasedate": "2020-01-27 20:35:22",
+        "officer": "SZCZERBIAK",
+        "namelfm": "SHURIAH  KEMAR  JOSEPH",
+        "address": " PEABODY DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000716]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511411.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 147,
+                "booking_id": 54,
+                "charge": "VANDALISM",
+                "bond": "1500",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 148,
+                "booking_id": 54,
+                "charge": "INTERFERING WITH EMERGENCY CALL",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "keynumber": "200000713",
+        "arrestdate": "2020-01-27 15:27:00",
+        "bookintime": "2020-01-27 16:54:00",
+        "releasedate": "",
+        "officer": "BRYANT",
+        "namelfm": "SIMPSON  LAKETA  SUPPORIA",
+        "address": " ARCHWOOD DR",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000713]",
+        "gender": "F",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511407.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 149,
+                "booking_id": 55,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "50000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 150,
+                "booking_id": 55,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 151,
+                "booking_id": 55,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 152,
+                "booking_id": 55,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 153,
+                "booking_id": 55,
+                "charge": "CRIMINAL SIMULATION",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 154,
+                "booking_id": 55,
+                "charge": "OUT OF COUNTY WARRANTS",
+                "bond": null,
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "keynumber": "200000668",
+        "arrestdate": "2020-01-25 05:09:00",
+        "bookintime": "2020-01-25 05:27:39",
+        "releasedate": "2020-01-25 07:54:00",
+        "officer": "ALQUZWEENI",
+        "namelfm": "TAYLOR  NATHANIEL  LOWE",
+        "address": " CHEROKEE TRL",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000668]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511361.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 155,
+                "booking_id": 56,
+                "charge": "UNDERAGE DRIVING WHILE IMPAIRED",
+                "bond": "3000",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 156,
+                "booking_id": 56,
+                "charge": "FALSE IDENTIFICATION - USE OF:",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 157,
+                "booking_id": 56,
+                "charge": "VIOLATION OF IMPLIED CONSENT LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "keynumber": "200000714",
+        "arrestdate": "2020-01-27 16:51:00",
+        "bookintime": "2020-01-27 17:05:00",
+        "releasedate": "2020-01-27 19:51:07",
+        "officer": "BRYANT",
+        "namelfm": "TUBERVILLE  JEREMY  ALLEN",
+        "address": " NEW DRY HOLLOW ROAD ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000714]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511410.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 158,
+                "booking_id": 57,
+                "charge": "IMPERSONATION - CRIMINAL IMPERSONATION",
+                "bond": "2500",
+                "bondagency": "911 BAIL BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "keynumber": "200000706",
+        "arrestdate": "2020-01-27 10:32:00",
+        "bookintime": "2020-01-27 10:39:43",
+        "releasedate": "",
+        "officer": "KENNEDY",
+        "namelfm": "TURNER  HUBERT  EARL",
+        "address": " MARKET STREET",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000706]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511400.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 159,
+                "booking_id": 58,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "1000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "keynumber": "200000682",
+        "arrestdate": "2020-01-26 07:48:00",
+        "bookintime": "2020-01-26 10:14:33",
+        "releasedate": "2020-01-26 16:12:42",
+        "officer": "SZCZERBIAK",
+        "namelfm": "WALDON  DONTE  LEE",
+        "address": " COVINGTON Street ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000682][FrontImageMissing][SideImageMissing]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/assets\/images\/noimage.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 160,
+                "booking_id": 59,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "20000",
+                "bondagency": "SALLEE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 161,
+                "booking_id": 59,
+                "charge": "COMPLIANCE W\/ FINANCIAL RESPONSIBILITY (INSURANCE)",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 162,
+                "booking_id": 59,
+                "charge": "TRAFFIC - DRIVERS IMPLIED CONSENT TO TESTS",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 163,
+                "booking_id": 59,
+                "charge": "EVIDENCE - TAMPERING WITH OR FABRICATING",
+                "bond": "50000",
+                "bondagency": "SALLEE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "keynumber": "200000659",
+        "arrestdate": "2020-01-24 22:34:00",
+        "bookintime": "2020-01-24 23:17:02",
+        "releasedate": "2020-01-25 01:10:25",
+        "officer": "HYATT",
+        "namelfm": "WALKER  MOET  BURTON",
+        "address": " LEV ST",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000659]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511352.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 164,
+                "booking_id": 60,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "1000",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "keynumber": "200000671",
+        "arrestdate": "2020-01-25 08:26:00",
+        "bookintime": "2020-01-25 08:44:51",
+        "releasedate": "2020-01-25 18:43:03",
+        "officer": "ALQUZWEENI",
+        "namelfm": "WEAVER  ERNEST  MATTHEW",
+        "address": " SHORT STREET",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000671]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511364.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 165,
+                "booking_id": 61,
+                "charge": "CONTEMPT(VIOL.COR)",
+                "bond": "500",
+                "bondagency": "CLARKSVILLE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 166,
+                "booking_id": 61,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "20500",
+                "bondagency": "CLARKSVILLE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 167,
+                "booking_id": 61,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 168,
+                "booking_id": 61,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 169,
+                "booking_id": 61,
+                "charge": "ARREST - RESISTING STOP,FRISK,ARREST,SEARCH",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 170,
+                "booking_id": 61,
+                "charge": "TRAFFIC - SPEEDING",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 171,
+                "booking_id": 61,
+                "charge": "TRAFFIC - DRIVERS IMPLIED CONSENT TO TESTS",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "keynumber": "200000697",
+        "arrestdate": "2020-01-26 22:53:00",
+        "bookintime": "2020-01-26 23:50:00",
+        "releasedate": "2020-01-27 00:37:20",
+        "officer": "ALQUWEENZI",
+        "namelfm": "WELCH  JOSHUA  DASHUN",
+        "address": " LYTE CT ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000697]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511391.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 172,
+                "booking_id": 62,
+                "charge": "TRAFFIC - LICENSE, TO BE CARRIED & EXHIBITED ON DE",
+                "bond": "750",
+                "bondagency": "GRUMPYS 24HR BOND",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 173,
+                "booking_id": 62,
+                "charge": "TRAFFIC - IMPROPER STOPPING AT STOP SIGN",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "keynumber": "200000646",
+        "arrestdate": "2020-01-24 13:46:00",
+        "bookintime": "2020-01-24 15:04:29",
+        "releasedate": "2020-01-25 00:16:00",
+        "officer": "PEQUIGNOT",
+        "namelfm": "WESLEY  ALLEN  DAWONIOUS",
+        "address": " JACKSON ROAD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000646]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511339.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 174,
+                "booking_id": 63,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "2500",
+                "bondagency": "KEESEE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "keynumber": "200000684",
+        "arrestdate": "2020-01-26 09:28:00",
+        "bookintime": "2020-01-26 10:13:33",
+        "releasedate": "",
+        "officer": "DEERING",
+        "namelfm": "WISDOM  JOHNATHAN  TYLER",
+        "address": " NEWSON Road",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000684]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511378.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 175,
+                "booking_id": 64,
+                "charge": "MAN,DEL,SALE,POSS,CONSP DRUGS FINE 500,000 OR LESS",
+                "bond": "75000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 176,
+                "booking_id": 64,
+                "charge": "DRUGS - AMOUNTS, SUBSECTION (i)- CLASS B FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 177,
+                "booking_id": 64,
+                "charge": "WEAPON-POSS.FIREARM-COMMISSION OF DANGEROUS FELONY",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 178,
+                "booking_id": 64,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 179,
+                "booking_id": 64,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "7500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 180,
+                "booking_id": 64,
+                "charge": "TRAFFIC - LEAVING SCENE OF ACC- PROPERTY DAMAGE",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 181,
+                "booking_id": 64,
+                "charge": "VIOLATION OF IMPLIED CONSENT LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 182,
+                "booking_id": 64,
+                "charge": "DRUGS - SIMPLE POSSESSION\/CASUAL EXCHANGE",
+                "bond": "1000",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 183,
+                "booking_id": 64,
+                "charge": "DRUGS - UNLAWFUL DRUG PARAPHERNALIA",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "keynumber": "200000665",
+        "arrestdate": "2020-01-25 02:25:00",
+        "bookintime": "2020-01-25 02:55:14",
+        "releasedate": "2020-01-27 17:34:48",
+        "officer": "HEADLEY",
+        "namelfm": "WITHERSPOON  DREAN  ONEAL",
+        "address": " CENTRAL AVE W ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000665]",
+        "gender": "M",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511358.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 184,
+                "booking_id": 65,
+                "charge": "DOMESTIC ASSAULT",
+                "bond": "5000",
+                "bondagency": "KEESEE BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 185,
+                "booking_id": 65,
+                "charge": "OUT OF COUNTY WARRANTS",
+                "bond": null,
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "keynumber": "200000702",
+        "arrestdate": "2020-01-27 01:43:00",
+        "bookintime": "2020-01-27 03:40:00",
+        "releasedate": "2020-01-27 22:11:54",
+        "officer": "GIBBONS",
+        "namelfm": "WITHERSPOON  LEE  ANN",
+        "address": " LANDFILL RD",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000702]",
+        "gender": "F",
+        "race": "B",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511396.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:08",
+        "updated_at": "2020-01-27 23:50:08",
+        "charges": [
+            {
+                "id": 186,
+                "booking_id": 66,
+                "charge": "DUI DRIVING UNDER THE INFLUENCE",
+                "bond": "2000",
+                "bondagency": "A WAY OUT BONDING",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 187,
+                "booking_id": 66,
+                "charge": "DRIVING ON SUSPENDED\/REVOKED",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:08",
+                "updated_at": "2020-01-27 23:50:08"
+            },
+            {
+                "id": 188,
+                "booking_id": 66,
+                "charge": "VIOLATION OF IMPLIED CONSENT LAW",
+                "bond": "0",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:09",
+                "updated_at": "2020-01-27 23:50:09"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "keynumber": "200000673",
+        "arrestdate": "2020-01-25 22:57:00",
+        "bookintime": "2020-01-25 23:05:38",
+        "releasedate": "",
+        "officer": "ROSE",
+        "namelfm": "WOOD  COOPER  MICHAEL",
+        "address": " FREEMAN FIELDER ",
+        "citystzip": "",
+        "debug_log": "[bookingnumber:200000673]",
+        "gender": "M",
+        "race": "W",
+        "pictureURL": "https:\/\/api.mcgtn.org\/mcgtn\/publicinquiry\/booking\/images\/511367.jpg",
+        "birthdate": "",
+        "countynum": "",
+        "created_at": "2020-01-27 23:50:09",
+        "updated_at": "2020-01-27 23:50:09",
+        "charges": [
+            {
+                "id": 189,
+                "booking_id": 67,
+                "charge": "IMPERSONATION - CRIMINAL IMPERSONATION",
+                "bond": "2500",
+                "bondagency": "",
+                "created_at": "2020-01-27 23:50:09",
+                "updated_at": "2020-01-27 23:50:09"
+            }
+        ]
+    }
+]

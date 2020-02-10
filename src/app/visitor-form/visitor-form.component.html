@@ -1,0 +1,67 @@
+
+    <mat-card class="example-card" cdkDrag [style.width]="width">
+        <mat-card-title>
+            <h5 class="text-center">Visitor</h5>
+        </mat-card-title>
+        <mat-card-content>
+            <div class="example-container">
+                <form [formGroup]="reactiveForm" (ngSubmit)="onSubmit()">
+                    <mat-form-field appearance="outline">
+                        <mat-label>Prisoner's Name</mat-label>
+                        <input matInput placeholder="Enter prisoner's name" name="PrisonerName" formControlName="prisonername">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('prisonername').hasError('required')  && ( reactiveForm.controls['prisonername']?.touched || reactiveForm.controls['prisonername']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>&nbsp;
+                    <mat-form-field appearance="outline">
+                        <mat-label>Fullname</mat-label>
+                        <input matInput placeholder="Enter password" name="Password" formControlName="fullname">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('fullname').hasError('required')  && ( reactiveForm.controls['fullname']?.touched || reactiveForm.controls['fullname']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field appearance="outline">
+                        <mat-label>Address</mat-label>
+                        <input matInput placeholder="Enter address" name="Address" formControlName="address">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('address').hasError('required')  && ( reactiveForm.controls['address']?.touched || reactiveForm.controls['address']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>&nbsp;
+                    <mat-form-field appearance="outline">
+                        <mat-label>Age</mat-label>
+                        <input type="number" matInput placeholder="Enter age" name="age" formControlName="age">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('age').hasError('required')  && ( reactiveForm.controls['age']?.touched || reactiveForm.controls['age']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field appearance="outline">
+                        <mat-label>Relationship to prisoner</mat-label>
+                        <input matInput placeholder="Relationship with the prisoner" name="Relationship"
+                            formControlName="relationship">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('relationship').hasError('required')  && ( reactiveForm.controls['relationship']?.touched || reactiveForm.controls['relationship']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>&nbsp;
+                    <mat-form-field appearance="outline">
+                        <mat-label>Date</mat-label>
+                        <input type="date" matInput placeholder="Enter date" name="Date" formControlName="dateVisit">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('dateVisit').hasError('required')  && ( reactiveForm.controls['dateVisit']?.touched || reactiveForm.controls['dateVisit']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field appearance="outline">
+                        <mat-label>Time in</mat-label>
+                        <input type="time" matInput placeholder="Enter time in" name="TimeIn" formControlName="timeIn">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('timeIn').hasError('required')  && ( reactiveForm.controls['timeIn']?.touched || reactiveForm.controls['timeIn']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>&nbsp;
+                    <mat-form-field appearance="outline">
+                        <mat-label>TIme out</mat-label>
+                        <input type="time" matInput placeholder="Enter time out" name="TimeOut" formControlName="timeOut">
+                        <mat-hint [style.color]="red" *ngIf="reactiveForm.get('timeOut').hasError('required')  && ( reactiveForm.controls['timeOut']?.touched || reactiveForm.controls['timeOut']?.dirty) ">This
+                            field is required</mat-hint>
+                    </mat-form-field>
+                    <button type="submit" [disabled]="!reactiveForm.valid" mat-raised-button color="primary">
+                        <mat-icon>done</mat-icon>
+                    </button>
+                </form>
+            </div>
+        </mat-card-content>
+    </mat-card>
+    
+    
+

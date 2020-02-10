@@ -1,0 +1,22 @@
+<mat-card class="example-card"  [style.width]="width">
+        <mat-card-title>
+            <h5>Name: {{data.fullname}}</h5>
+        </mat-card-title><hr>
+        <mat-card-content>
+            <div class="example-container">
+                <h6>Age: {{data.age}}</h6>
+                <h6>Address: {{data.prisonerAddress}}</h6>
+                <h6>Sex: {{data.sex}}</h6>
+                <h6>Civil Status: {{data.status}}</h6>
+                <h6>Height: {{data.height}}</h6>
+                <h6>Time Arrested:{{data.height}}</h6>
+                <h6>Date Arrested: {{data.arrestTime}}</h6>
+                <h6>Arrest Officer:{{data.police}}</h6>
+                <h6>Case: {{data.case}}</h6>
+            </div><hr>
+            <button mat-raised-button color="accent" (click)="seeHistory(data._id)" >See visit history</button>
+        </mat-card-content>
+    </mat-card>
+
+
+    
